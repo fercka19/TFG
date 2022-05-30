@@ -1,0 +1,21 @@
+.color{
+    -fx-background-color: #BADC61;
+    -fx-padding:3 10 3 10;
+}
+.colorEnvio{
+    -fx-background-color: #F09CF2;
+    -fx-padding: 3 10 3 10;
+}
+.colorPrivado{
+    -fx-background-color: #E59867;
+    -fx-padding: 3 10 3 10;
+}
+.colorUsuario{
+    -fx-background-color: #83BFAF;
+    -fx-padding: 3 10 3 10;
+    -fx-font-size: 16;
+}
+.textoClass{
+    -fx-font-size: 16;
+
+}
